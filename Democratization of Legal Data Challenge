@@ -1,23 +1,23 @@
-# Democratization of Legal Data Challenge
+---
+title: Democratization of Legal Data Challenge (CL+B Fest Challenge)
+---
 
-CL+B Fest Challenge
+Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the Democratization of Legal Data Challenge with a high level design concept and rapid prototype project:
 
-**Teams participating in the Legal Hackers 2018** [**Computational Law and Blockchain Festival**](https://legalhackers.org/clbfest2018) **are encouraged to tackle the Democratization of Legal Data Challenge with a high level design concept and rapid prototype project:**
-
-**Conceptual Design**
+### Conceptual Design
 
 Develop a conceptual design and rapid prototype demonstrating how blockchain technology can be used to improve AI access to and mining of anonymized legal data for analysis and prediction while protecting the security and privacy of the personal and confidential data of the type generated in legal services.
 
 The conceptual design should include an outline or sketch of a realistic approach to deployment and stable operation of the legal data capture, storage, security and use of anonymized AI system including:
 
-- Business model;
-- Standards for design and functionality;
-- Legal framework; and
-- Technology architecture
+1. Business model;
+2. Standards for design and functionality;
+3. Legal framework; and
+4. Technology architecture
 
-**Rapid Prototype**
+### Rapid Prototype
 
-The rapid prototype should demonstrate how a system of democratized legal data generation and secure storage protects personal, confidential, and other data legally constrained from disclosure. Using blockchain applications, the prototype must illustrate how to maximize the capture and secure storage of data appropriate for AI machine and deep learning of trends, predictions and practices which will improve the legal industry&#39;s efficiency, quality and economic performance of legal service on behalf of clients. The teams accepting this challenge will have access to anonymized data from which to work to develop their prototype model. The rapid prototype will address such issues as:
+The rapid prototype should demonstrate how a system of democratized legal data generation and secure storage protects personal, confidential, and other data legally constrained from disclosure. Using blockchain applications, the prototype must illustrate how to maximize the capture and secure storage of data appropriate for AI machine and deep learning of trends, predictions and practices which will improve the legal industry's efficiency, quality and economic performance of legal service on behalf of clients. The teams accepting this challenge will have access to anonymized data from which to work to develop their prototype model. The rapid prototype will address such issues as:
 
 - Protecting personal health data from unauthorized disclosure;
 - Preventing client confidential information from unauthorized disclosure;
@@ -25,35 +25,27 @@ The rapid prototype should demonstrate how a system of democratized legal data g
 - Generating robust instances of anonymized data from the securely stored non-disclosable data optimized for AI analytics; and
 - Compliance with data storage and confidentiality regulations such the U.S. Health Insurance Portability and Accountability Act (HIPAA) and the EU General Data Protection Regulation (GDPR).
 
-**Team Participation**
+### Team Participation
 
 To register your team project for the Democratization of Legal Data Challenge, submit a GitHub Issue with the following information:
 
-        •        The name of your project and your team name;
+- The name of your project and your team name;
+- The names of your team members including the GitHub username of at least one member;
+- The URL of the GitHub repository where your project will be developed and submitted;
+- The URL of the YouTube Channel where your team will submit video; and
+- The name and URL of the Festival Node in which your team is participating.
 
-        •        The names of your team members including the GitHub username of at least one member;
-
-        •        The URL of the GitHub repository where your project will be developed and submitted;
-
-        •        The URL of the YouTube Channel where your team will submit video; and
-
-        •        The name and URL of the Festival Node in which your team is participating.
-
-**Criteria and Judging**
+### Criteria and Judging
 
 Teams are expected to:
-
-        •        Pitch their project idea at or before the start of the 2018 CL+B Fest through a 2 minute or shorter video clip uploaded to YouTube under Creative Commons license;
-
-        •        Present their final project in a 2 minute or shorter video clip uploaded to YouTube under Creative Commons license;
-
-        •        Provide their final project materials (including any slides, video and other media, documentation, working code, etc) through a GitHub repository under an open source license.
+- Pitch their project idea at or before the start of the 2018 CL+B Fest through a 2 minute or shorter video clip uploaded to YouTube under Creative Commons license;
+- Present their final project in a 2 minute or shorter video clip uploaded to YouTube under Creative Commons license;
+- Provide their final project materials (including any slides, video and other media, documentation, working code, etc) through a GitHub repository under an open source license.
 
 Final team projects will be reviewed and rated by a panel of invited judges. Evaluation criteria will be added to this challenge page after an initial meeting of the judges and prior to the start of the CL+B Festival event. The top team projects will be determined based on rank order resulting from an aggregate of the ratings by each judge.
 
 The team submitting the top ranked, highest rated project will be invited to present the project in-person at the Summit on Law &amp; Innovation (SoLI) at the Vanderbilt Law School in Nashville, Tennessee, U.S.A. on April 30, 2018 to an international audience of acknowledged leaders in legal innovation from law schools, legal practice and legal technology development. See: [solivanderbilt.org](http://solivanderbilt.org) The winning team members will have their registration fee, travel and accommodations for SoLI provided.
- ![](data:image/*;base64,iVBORw0KGgoAAAANSUhEUgAAAKQAAAA+CAYAAAClSLBkAAAFYUlEQVR42u2cv08UQRTHL4GY+CdoqwWJlhBtaKAyRqFXsAd/tJD4o4JOLKAV4R+4+wMgaguFdrRQ0AN/wegXMvHt883M3t3u3c7d95tM4G53Z3f2fXbmzZu313IU1SC1eAsoAklRBJIikBRFICkCSVEEkiKQFEUgKQJJUQSSoggkRSApikBSBJKiCCQ1lkD+/OHcly3nPn1w7tVL52Yf/yt3b/+ttVVtkfWjvHtzc+5vu879/kUrji2QgGCyVT1w/ZaH95378Z3WLKGTkxO3vLxcKHkC+fxp80DUZfdr8PK3t7cLRtjY2DD329vbK+y3trY2FEjKFBzXrY6OjtzU1FSh5Afkx/fNhxEFvffpaRC0MoZYXFws7DMIIC1IyhQcN55A1uEX1lXevjabcH5+/p8hrB5G73NwcEAgGwUkfLNcYPT+ZEBzc3MFQ7Tb7aSxrq6uBjJkLy0tFcr09HThOvBZ7zOeQ/bW57yAbIWbhOE3NhzDz5TbYfRhCeeu41ryBzIX/1GWwIwbw680BPxFqZWVlcJ2+J0EsmlAzj4aGSAx/MaMMTMzk/QxCeSoAIlAOoLagwASbkZACwsL5sRAT3rgs2l1Oh23urpaCL3s7++bfibq29nZKRR85wX/VW7T/mwMyFTdaJPengISbcB+vl3r6+tR/xn1bG5uFu4FPvf7EA8OSKzuQIgV1j1rh5sRiUdKY+CzNZxL/xKG0eEgWdCzakNYhpez4lQPGNueqlu3UfaCoYmb1b75+XkTSoAXm/334+qkgawKEg8kdHFxA83k4IEEOPLmwW+EECgPzcBjMEoopfFyAhK9W6hdegEB96WukNTwgPRCELuOFaAIkJAMqaAXsADwcFkGgMGtQLvvbXMD0oOnH0p5f7zwWR+HOvX1+gc9LyBlrBPxw6rO9exJtEl6Nq0nO/AzQ6EiCYY2oJy15wSkHGJ1e+WxenQpuy0/IL3gX1YxjMPvjUj3erq3kz2d7hHkNu13pgzfVCBTQ7L3j/V90tesj5MTrTyBlP5ljUDqGbX2oaRxex2WcwUyVndq4aAKP7J5QJ6d9R8eSgBphX9C4R4COa5AXl7eJN626h+yLf/PcsYt44wzkKlrHh0gETSvMgS0/CLZLMv/0+EeAhkHEv61DL7nDyS+q3J2XTLsE3qitSNOIONA1hGLTAM5UQOQ8BPrzEAvCaS+wTLcQyCbCmSVS4fwE/FeTt1r2T0CqaEgkN35kHklV2DCMjn8d2u6AdLKDhpnIPVEcDhAYtVjRNLPeknxIpDlwz4ygwmZUb1k249mgm7Jd7XLAKlfJRj1lRprjd5P9FIrNfqa6/EhMfyNyCsMvQAZSxrQhpeTohQ0OoOoXyBluMqKsabSz8qsZadgHsxaNnqbnGB8cK9SIK0e4/Dw8LroDHPZe1rJBliiPD4+vk5+1du6AdIyPgBH3VY8MAUVjsUQa+U56vPqEQPHWG3CC3X1AAnduZUPkCVn2GWBRO+hjRAqOpkgdlwsi6jMtYWWPv2+ensMyNh16kx2yx2winw4qwey084DRsRMkZxRIZC+t0tBqQ0XMx5gAegSmm6BDK00oWfCg6GPDwGJ/UJJt6H7odP3rIetvll2LpObiVbXPzwFQwAaXyyoZIYQ9oGRYHQU/A9/LZZmhTo9HPiLOmTyb+jcZa4NUMq6cS2+boAnj9ft8EVGBQAaHhJdV6hdfn9/foDYa6Z490D6nrKJbyFi7TrwEypUXurt5/gwLCLWB0DRc/qCmCWADZXYMiT81NixgE6eC+fnT/ERSIoikBSBpCgCSRFI3gKKQFIUgaQIJEURSIpAUhSBpAgkRRFIapz0B0/XlGjg56MeAAAAAElFTkSuQmCC)
 
-**Video Introduction**
+### Video Introduction
 
-[Try watching this video on www.youtube.com](http://www.youtube.com/watch?v=p77zuekoWn4)
+[Watch this video on YouTube](http://www.youtube.com/watch?v=p77zuekoWn4) to learn about the Music City's CL+B Fest Challenge.
