@@ -2,6 +2,10 @@
 
 Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the Democratization of Legal Data Challenge with a high level design concept and rapid prototype project:
 
+### Time Frame for Challenge
+
+Teams are to start this challenge no earlier than 09:00 local time on 17 March 2018 and complete no later than 09:00 on 18 March 2018.
+
 ### Conceptual Design
 
 Develop a conceptual design and rapid prototype demonstrating how blockchain technology can be used to improve AI access to and mining of anonymized legal data for analysis and prediction while protecting the security and privacy of the personal and confidential data of the type generated in legal services.
