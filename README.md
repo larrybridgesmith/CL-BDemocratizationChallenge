@@ -41,13 +41,14 @@ To register your team project for the Democratization of Legal Data Challenge, s
 
 Teams are expected to:
 	•	Pitch their project idea at or before the start of the 2018 CL+B Fest through a 2 minute or shorter video clip uploaded to YouTube under Creative Commons license; 
-	•	Present their final project in a 2 minute or shorter video clip uploaded to YouTube under Creative Commons license; 
+	•	Present their final project in a 2 minute or shorter video clip uploaded to YouTube under Creative Commons license;
 	•	Provide their final project materials (including any slides, video and other media, documentation, working code, etc) through a GitHub repository under an open source license. 
 	•	Teams will be notified of the winner within 10 days of the conclusion of the CL+B Hack Challenge 
 
 ### Judges
 
 Final team projects will be reviewed and rated by the following panel of invited judges:
+
 	•	Alyson Carrel (legal academic) 
 	◦	Assistant Dean of Law and Technology Initiatives 
 	◦	Clinical Assistant Professor 
@@ -59,7 +60,7 @@ Final team projects will be reviewed and rated by the following panel of invited
 	◦	DWT de Novo 
 	◦	Davis Wright Tremaine 
 	
-  •	Cat Moon (legal technologist) 
+  	•	Cat Moon (legal technologist) 
 	◦	Co-founder 
 	◦	Chief Design Officer 
 	◦	Legal Alignment (developer of DASH) 
