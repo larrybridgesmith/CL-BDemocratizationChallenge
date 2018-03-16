@@ -65,7 +65,7 @@ Final team projects will be reviewed and rated by the following panel of invited
 	◦	Chief Design Officer 
 	◦	Legal Alignment (developer of DASH) 
 	
-  •	Tunji Williams & Alex Nordholm (legal technologists) 
+  	•	Tunji Williams & Alex Nordholm (legal technologists) 
 	◦	Co-founders  
 	◦	CEO and Product Development 
 	◦	dealWIP 
